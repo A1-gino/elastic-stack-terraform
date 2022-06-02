@@ -1,7 +1,7 @@
 # elastic-stack-terraform
 ## ElasticSearch stack using Terraform on AWS EC2
 
-Follow instructions on this [Article](https://scanskill.com/devops/terraform/elasticsearch-on-aws-ec2/)
+Follow the instructions on this [Article](https://scanskill.com/devops/terraform/elasticsearch-on-aws-ec2/)
 
 ### Output
 
