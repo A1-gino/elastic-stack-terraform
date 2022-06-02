@@ -1,11 +1,9 @@
 # elastic-stack-terraform
-ElasticSearch stack using Terraform on AWS EC2
+## ElasticSearch stack using Terraform on AWS EC2
 
 Follow instructions on this [Article](https://scanskill.com/devops/terraform/elasticsearch-on-aws-ec2/)
 
-Now, you have successfully set up Elastic Stack on AWS
-Amazon Web Services
- EC2 using Terraform.
+### Output
 
 Visit, **<public_ip_of_any_es_node>:9200/_cluster/health** to see ElasticSearch **Status**
 
